@@ -23,4 +23,4 @@ DO NOT commit or share in any way the CSV-files <em>etappen.csv</em>! These are 
 
 ## Contact
 
-Please don't hesitate to contact me if you have questions or comments about this code: antonin.danalet@are.admin.ch
+Please don't hesitate to contact befragung@are.admin.ch if you have questions or comments about this code.
